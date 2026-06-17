@@ -1,0 +1,6 @@
+{
+  "name": "Dimsum Embege",
+  "description": "Landing page modern, clean, dan responsive untuk Dimsum Embege, brand dimsum street food kekinian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,23 @@
+{
+  "collections": {
+    "reviews": {
+      "description": "Real-time dynamic reviews left by clients/users for Dimsum Embege.",
+      "schema": {
+        "id": "string",
+        "name": "string",
+        "age": "number",
+        "role": "string",
+        "rating": "number",
+        "text": "string",
+        "avatar": "string",
+        "createdAt": "timestamp"
+      },
+      "rules": {
+        "read": "true",
+        "create": "true",
+        "update": "false",
+        "delete": "false"
+      }
+    }
+  }
+}
